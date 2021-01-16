@@ -28,7 +28,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="www.instagram.com/emin_saygi"><img alt="Instagram" src="https://img.shields.io/badge/<@emin_saygi>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/emin_saygi"><img alt="Instagram" src="https://img.shields.io/badge/<@emin_saygi>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eminsaygı//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/eminsaygii"><img alt="Twitter" src="https://img.shields.io/badge/<@eminsaygii>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
