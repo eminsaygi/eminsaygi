@@ -27,9 +27,9 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+<img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <p align="center">
-<a href="https://twitter.com/eminsaygii"><img src="https://img.shields.io/badge/-bufgix_-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/eminsaygii"><img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eminsaygı//"><img src="https://img.shields.io/badge/-Ömer%20Faruk%20Oruc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="www.instagram.com/emin_saygi"><img src="https://img.shields.io/badge/-@bufgix-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
