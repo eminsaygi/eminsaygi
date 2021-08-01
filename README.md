@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A Software Developer from Istanbul/Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminsaygi" alt="eminsaygi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminsaygi-ma&theme=onedark" alt="eminsaygi" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
 
