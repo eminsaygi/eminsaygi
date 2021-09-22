@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminsaygi" alt="eminsaygi" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
+- 🌱 I’m currently learning **React.js, Javascript , Java , C# etc.**
 
 - 📝 My personal page [https://linktr.ee/eminsaygi](https://linktr.ee/eminsaygi)
-
-- 💬 Ask me about **Javascript, CSS and Linux.**
 
 - 📫 How to reach me **emin2470@gmail.com**
 
