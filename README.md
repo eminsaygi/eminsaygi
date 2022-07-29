@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A Software Developer from Istanbul/Turkey</h3>
+<h3 align="center">A Mobile Application Developer from Istanbul/Turkey</h3>
+
+![](https://komarev.com/ghpvc/?username=eminsaygi&color=green)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminsaygi&show_icons=true&theme=dark&locale=en" alt="eminsaygi" width="50%" /></p>
 
-- 🌱 I’m currently learning **React Native,Swift,Javascript , Java , C# etc.**
+- 🌱 I’m currently learning **React Native and Swift**
 
 - 📝 My personal page [https://linktr.ee/eminsaygi](https://linktr.ee/eminsaygi)
 
@@ -30,4 +32,4 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a>
   
-![](https://komarev.com/ghpvc/?username=eminsaygi&color=green)
+
